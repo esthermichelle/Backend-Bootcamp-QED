@@ -25,8 +25,3 @@ Resources, notes, references, and useful materials for the <b>Q.E.D. Web Develop
 | 09 | 🎯 [Capstone Project](09-Capstone/README.md) |
   
 ---
-
-# Contributors
-
-https://github.com/esthermichelle/Backend-Bootcamp-QED/graphs/contributors
----
