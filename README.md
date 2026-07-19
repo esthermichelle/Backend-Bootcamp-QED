@@ -26,12 +26,7 @@ Resources, notes, references, and useful materials for the <b>Q.E.D. Web Develop
   
 ---
 
-# ❤️ Contributors
+# Contributors
 
-<p align="center">
-  <a href="https://github.com/esthermichelle/Backend-Bootcamp-QED/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=esthermichelle/Backend-Bootcamp-QED" />
-  </a>
-</p>
-
+https://github.com/esthermichelle/Backend-Bootcamp-QED/graphs/contributors
 ---
