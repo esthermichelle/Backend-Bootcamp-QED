@@ -14,7 +14,7 @@ Resources, notes, references, and useful materials for the <b>Q.E.D. Web Develop
 
 | # | Module |
 |---|--------|
-| 01 | ✨ [Introduction](00-Introduction/README.md) |
+| 00 | ✨ [Introduction](00-Introduction/README.md) |
 | 01 | 📡 [Networking Fundamentals](01-Networking/README.md) |
 | 02 | 🖥️ [Operating Systems](02-Operating-Systems/README.md) |
 | 03 | ⚡ [FastAPI & Backend Core](03-FastAPI-Backend-Core/README.md) |
