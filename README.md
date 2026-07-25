@@ -2,27 +2,25 @@
   <img src="logo/qed_logo.png" alt="Q.E.D." width="180">
 </p>
 
-<h1 align="center">Web Development Bootcamp Resources</h1>
+<h1 align="center">Course Sessions</h1>
 
 <p align="center">
-Resources, notes, references, and useful materials for the <b>Q.E.D. Web Development Bootcamp</b>.
+Resources, notes, references, and materials for the <b>Q.E.D. Web Development Bootcamp</b>.
 </p>
 
 ---
 
-## 📚 Course Modules
+## Course Sessions
 
-| # | Module |
-|---|--------|
-| 00 | ✨ [Introduction](00-Introduction/README.md) |
-| 01 | 📡 [Networking Fundamentals](01-Networking/README.md) |
-| 02 | 🖥️ [Operating Systems](02-Operating-Systems/README.md) |
-| 03 | ⚡ [FastAPI & Backend Core](03-FastAPI-Backend-Core/README.md) |
-| 04 | 🔐 [Authentication & Security](04-Authentication-Security/README.md) |
-| 05 | 🚀 [Advanced Backend](05-Advanced-Backend/README.md) |
-| 06 | 🏗️ [System Design & Architecture](06-System-Design/README.md) |
-| 07 | ✅ [Testing & Quality](07-Testing-Quality/README.md) |
-| 08 | 🐳 [DevOps & Deployment](08-DevOps-Deployment/README.md) |
-| 09 | 🎯 [Capstone Project](09-Capstone/README.md) |
-  
+| # | Sessions |
+|---|---------|
+| 01 | [Session 01](Session-01/README.md) |
+| 02 | [Session 02](Session-02/README.md) |
+| 03 | [Session 03](Session-03/README.md) |
+| 04 | [Session 04](Session-04/README.md) |
+| 05 | [Session 05](Session-05/README.md) |
+| 06 | [Session 06](Session-06/README.md) |
+| 07 | [Session 07](Session-07/README.md) |
+| 08 | [Session 08](Session-08/README.md) |
+
 ---
